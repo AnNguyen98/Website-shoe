@@ -1,0 +1,19 @@
+.footer-container {
+  padding-top: 20px;
+  height: 200px;
+  background-color: rgb(241, 241, 241);
+  margin-bottom: 0px;
+}
+.title-footer {
+  font-size: 14px;
+  color: black;
+}
+
+.small-title {
+  font-size: 12px;
+}
+
+.align-left {
+  display: inline-block;
+  float: left;
+}

@@ -1,0 +1,35 @@
+.center {
+  margin: auto;
+}
+
+.men-container {
+  min-height: 550px;
+  padding: 40px;
+  text-align: center;
+  width: 100%;
+  justify-content: space-around;
+}
+
+.header-sort {
+  justify-content: flex-end;
+  font-size: 15px;
+}
+
+.border-product {
+  border: 1px solid black;
+}
+
+.icon-size {
+  width: 50px;
+  font-size: 25px;
+}
+
+.center-select {
+  justify-content: flex-start;
+  margin-left: 20px;
+}
+
+div.disabled {
+  overflow-x: hidden;
+  overflow-y: scroll;
+}
